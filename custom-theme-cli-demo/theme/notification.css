@@ -276,13 +276,13 @@
     .el-notification__closeBtn:hover {
       color: #606266; }
   .el-notification .el-icon-success {
-    color: #67C23A; }
+    color: #3a8f10; }
   .el-notification .el-icon-error {
-    color: #F56C6C; }
+    color: #8f1010; }
   .el-notification .el-icon-info {
-    color: #909399; }
+    color: #86898f; }
   .el-notification .el-icon-warning {
-    color: #E6A23C; }
+    color: #8f5c10; }
 
 .el-notification-fade-enter.right {
   right: 0;

@@ -31,13 +31,13 @@ $--color-primary-light-7: mix($--color-white, $--color-primary, 70%) !default; /
 $--color-primary-light-8: mix($--color-white, $--color-primary, 80%) !default; /* d9ecff */
 $--color-primary-light-9: mix($--color-white, $--color-primary, 90%) !default; /* ecf5ff */
 /// color|1|SecondaryColor|1
-$--color-success: #67C23A !default;
+$--color-success: #3a8f10 !default;
 /// color|1|SecondaryColor|1
-$--color-warning: #E6A23C !default;
+$--color-warning: #8f5c10 !default;
 /// color|1|SecondaryColor|1
-$--color-danger: #F56C6C !default;
+$--color-danger: #8f1010 !default;
 /// color|1|SecondaryColor|1
-$--color-info: #909399 !default;
+$--color-info: #86898f !default;
 
 $--color-success-light: mix($--color-white, $--color-success, 80%) !default;
 $--color-warning-light: mix($--color-white, $--color-warning, 80%) !default;
