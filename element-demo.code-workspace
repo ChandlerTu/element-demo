@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "custom-theme-demo"
+		},
+		{
+			"path": "custom-theme-scss-demo"
 		}
 	]
 }
