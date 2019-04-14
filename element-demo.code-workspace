@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "custom-theme-scss-demo"
+		},
+		{
+			"path": "custom-theme-cli-demo"
 		}
 	]
 }
