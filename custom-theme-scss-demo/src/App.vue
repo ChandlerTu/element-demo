@@ -57,12 +57,29 @@ export default {
 </script>
 
 <style>
+body {
+  background: #0f448e;
+  color: #ffffff;
+}
+
 #app {
   font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+}
+
+.el-table th {
+  background: #0f448e;
+  color: #ffffff;
+}
+
+.el-table tr {
+  background: #0f448e;
+  color: #ffffff;
+}
+
+.el-table--enable-row-hover .el-table__body tr:hover > td {
+  background: #3f69a5;
 }
 </style>
